@@ -1,0 +1,113 @@
+main {
+  margin: 40px;
+}
+
+header {
+  background-color: dodgerblue;
+  color: white;
+}
+
+header > h1 {
+  margin: 20px 0px 20px 40px;
+  display: inline-block;
+}
+
+#top_links {
+  margin-left: 70%;
+  background-color: dodgerblue;
+  display: inline-block;
+}
+
+#top_links > a {
+  color: white;
+  display: inline-block;
+  margin: 5px;
+}
+
+#section-lhs {
+  vertical-align: top;
+  display: inline-block;
+  width: 30%;
+}
+
+#aside-latest {
+  display: inline-block;
+  width: 60%;
+}
+
+#aside-latest > h2 {
+  padding-left: 20px;
+}
+
+#aside-latest > h3 {
+  padding-left: 20px;
+}
+
+#headline-image1 {
+  display: inline-block;
+  width: 30%;
+  padding: 20px;
+}
+
+#headline-aside1 {
+  vertical-align: top;
+  display: inline-block;
+  width: 60%;
+  padding-top: 20px;
+}
+
+#headline-image2 {
+  display: inline-block;
+  width: 30%;
+  padding: 20px;
+}
+
+#headline-aside2 {
+  vertical-align: top;
+  display: inline-block;
+  width: 60%;
+  padding-top: 20px;
+}
+
+#headline-image3 {
+  display: inline-block;
+  width: 30%;
+  padding: 20px;
+}
+
+#headline-aside3 {
+  vertical-align: top;
+  display: inline-block;
+  width: 60%;
+  padding-top: 20px;
+}
+
+footer {
+  background-color: dodgerblue;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+textarea {
+  width: 100%;
+}
+
+#submit-button {
+  margin-left: 95%;
+}
+
+label {
+  padding-bottom: 10px;
+}
+
+#top-submit-button {
+  margin-top: 10px;
+}
+
+#comments > img {
+  width: 100px;
+  border-radius: 50px;
+  /* float: left; */
+  margin-right: 10px;
+}
