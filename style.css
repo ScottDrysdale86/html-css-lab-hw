@@ -30,6 +30,14 @@ header > h1 {
   width: 30%;
 }
 
+label {
+  padding-bottom: 10px;
+}
+
+#top-submit-button {
+  margin-top: 10px;
+}
+
 #aside-latest {
   display: inline-block;
   width: 60%;
@@ -82,13 +90,6 @@ header > h1 {
   padding-top: 20px;
 }
 
-footer {
-  background-color: dodgerblue;
-  color: white;
-  text-align: center;
-  padding: 10px;
-}
-
 textarea {
   width: 100%;
 }
@@ -97,17 +98,16 @@ textarea {
   margin-left: 95%;
 }
 
-label {
-  padding-bottom: 10px;
-}
-
-#top-submit-button {
-  margin-top: 10px;
-}
-
 #comments > img {
   width: 100px;
   border-radius: 50px;
   /* float: left; */
   margin-right: 10px;
+}
+
+footer {
+  background-color: dodgerblue;
+  color: white;
+  text-align: center;
+  padding: 10px;
 }
